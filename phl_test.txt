@@ -1,13 +1,23 @@
 1. What role does God play in Descartes' physics?[1] How far is his physics
-informed by emperical considerations?[2]
+informed by empirical considerations?[2]
 
     [1] Why does he use god in his physics? H. was going to say something about
     this but never got around to. He seems to use God to explain his idea of
-    conservation of 'quantity of motion'. What elese?
+    conservation of 'quantity of motion'. What else?
 
-    [2] He claims his physics are informed by emperical considerations. e.g.
+    [2] He claims his physics are informed by empirical considerations. e.g.
     claims about heavier things falling faster than lighter things. But he never
     actually tested these things.
+
+    D's physics are largely not empirical. D did not consider empiricisim a
+    valid way to do physics because he was a Rationalist. Descartes thought 
+    that *true* physics could only be done through deduction.
+
+    How is his empiricism related to his views on God.
+
+    D some of his physics were unrealistic. Why did he say this was?
+
+    Read Chapter 4 pg 48 in Achinstein.    
 
 2. How does Newton's mechanics relate to Kepler's laws?[1] What is the relation
 between the Four Rules and Newton's actual practice?[2] Can a successful
@@ -17,16 +27,31 @@ scientific procedure be founded on these rules?[3]
     Verification of Kepler's laws by Newtonian dynamics was important(?) Say 
     why(?)
 
+    How have Newton's mechanics and rules added to Kepler's laws?
+        * Newton gave Kepler's laws a theoretical backing. 
+        * ?
+
     [2] Newton seems to adheres to these rules. But the answer to this cannot be
     that simple. How does he break them?
 
+    It would seem that Newton came up with the 4 rules after the fact. To
+    justify his methodology. Maybed Newton did adhere to something like this
+    methodology and then wrote about it after the fact.
+
     [3] I would say yes. But if I remember correctly the answer is no?
+
+    Read: Whewell, Kohen pg 100.
    
 3. What, for Newton, is a 'hypothesis'?[1] Is he right to say that he does not
 'frame' them?[2] What force does his injunction really have?[3]
 
-    [1] I hypothesis for Newton is the proposed explanation for a phenomenon.
+    [1] For Newton a hypothesis is the proposed explanation for a phenomenon.
     The same definition people use today.
+    
+    In the first he had a list of 9 things he called Hypotheses. This left him
+    open to criticism. He later rewrote these Hypotheses as the rules and
+    several phenomenons. In the second edition he added "Hypotheses non
+    fingo".
 
     [2] In earlier editions of Principia, Newton said he made(?) no hypothesis'.
     But he then went on to declare several hypothesis' and he was criticized for
@@ -35,6 +60,16 @@ scientific procedure be founded on these rules?[3]
     in a or ridiculous way. His is claiming that his hypotheses came about from
     induction or some other method that would make them more probable than a
     *framed* hypotheses.
+
+    The above is wrong.
+    He did write a list of hypothesis in the first editions. But he later
+    changed this.
+    
+    In ed. 2 he added "Hypotheses no fingo". And removed the Hypotheses.
+    
+    Newton did not *frame* Hypotheses. But he did use and make them. By frame
+    he means create with no justification a hypothesis that is more complicated 
+    than another. 
     
     [3] I'm still not sure what this means. What does injunction mean here? 
 
