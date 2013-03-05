@@ -34,19 +34,25 @@ scientific procedure be founded on these rules?[3]
     Previously Kepler attributed magnetisim to be the force which pushed the
     planets around.
 
+    So N gave Kepler's laws a cause in Mill's terms. 
+    
+
     [2] Newton seems to adheres to these rules. But the answer to this cannot be
     that simple. How does he break them?
 
     It would seem that Newton came up with the 4 rules after the fact. To
     justify his methodology. Maybed Newton did adhere to something like this
-    methodology and then wrote about it after the fact.
+    methodology and then wrote about it after the fact. The wether not he used
+    these laws is ambiguous. 
+
+    He could have extrapolated these rules from what he did.
 
     [3] I would say yes. But if I remember correctly the answer is no?
 
     Read: Whewell, Kohen pg 100.
    
 3. What, for Newton, is a 'hypothesis'?[1] Is he right to say that he does not
-'frame' them?[2] What force does his injunction really have?[3]
+'frame' them?[2] What force does his injunction not to do so really have?[3]
 
     [1] For Newton a hypothesis is the proposed explanation for a phenomenon.
     The same definition people use today.
@@ -112,6 +118,9 @@ component of the scientific method?[2]
 
     This is neccessary because otherwise there would be no way to connect
     phenomena into something more general.
+
+    Maybe read chapter 14? It is short and is Achinstein's discussion of Mill
+    Whewell's induction.
 
 5. What are the central features of Mill's account of the nature of scientific
 discovery?[1] What is his analysis of induction?[2] How are his 'Canons of inductive
