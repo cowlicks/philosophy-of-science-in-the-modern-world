@@ -30,6 +30,9 @@ scientific procedure be founded on these rules?[3]
     How have Newton's mechanics and rules added to Kepler's laws?
         * Newton gave Kepler's laws a theoretical backing. 
         * ?
+    
+    Previously Kepler attributed magnetisim to be the force which pushed the
+    planets around.
 
     [2] Newton seems to adheres to these rules. But the answer to this cannot be
     that simple. How does he break them?
@@ -53,6 +56,12 @@ scientific procedure be founded on these rules?[3]
     several phenomenons. In the second edition he added "Hypotheses non
     fingo".
 
+    N defines a hypothesis on pg 107 "the word HYpothesis is here used by me
+    to signify only such a Proposition as is not a Paenomenon(sic) nor deduced
+    from any Paenomenon but assumed or supposed without any experimental
+    proof."
+
+
     [2] In earlier editions of Principia, Newton said he made(?) no hypothesis'.
     But he then went on to declare several hypothesis' and he was criticized for
     this. However in later editions he clarified the statement to "I *frame* no
@@ -71,15 +80,38 @@ scientific procedure be founded on these rules?[3]
     he means create with no justification a hypothesis that is more complicated 
     than another. 
     
+    See page 105
+    When N said he does not *frame* hypotheses he was saying that in regards
+    to the cause of gravity. Which he did not hypothesize about.
+
+    From pg 105
+    N does not mean that he does not mean that he never uses or makes
+    hypotheses. Which could be belied, since he has one in book 2 and 2 in
+    book 3. Koyre suggested he meant, by fingo, I *feign* no hypotheses, as in
+    inventing a fiction. 
+
     [3] I'm still not sure what this means. What does injunction mean here? 
+    
+    "Satis est" it was enough. I saw the word 'injunction' somewhere here in
+    chapter 8. 
+
 
 4. What does Whewell think is missing from a 'purely inductive' account of the
 formulation of scientific laws?[1] Is he right to think that it is a necessary
 component of the scientific method?[2]
     
-    [1]
+    [1] The act of invention. Every induction requires the invention of a new
+    conception of the phenomena. 
 
-    [2]
+    Kepler invented the idea of elipse after trying many other explenations to
+    the observed phenomena.
+
+    [2] I would say so, this act of invention can often be wrong. But like
+    Whewell says "To try wrong guesses is, with most persons, the only way to
+    hit upon right ones." (pg 155)
+
+    This is neccessary because otherwise there would be no way to connect
+    phenomena into something more general.
 
 5. What are the central features of Mill's account of the nature of scientific
 discovery?[1] What is his analysis of induction?[2] How are his 'Canons of inductive
