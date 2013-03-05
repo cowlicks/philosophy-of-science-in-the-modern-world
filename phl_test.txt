@@ -16,8 +16,10 @@ informed by empirical considerations?[2]
     How is his empiricism related to his views on God.
 
     D some of his physics were unrealistic. Why did he say this was?
+    
+    D knew his physics were unrealistic and only happen in an idealized world. 
 
-    Read Chapter 4 pg 48 in Achinstein.    
+    Read Chapter 4 pg 48 in Achinstein. 
 
 2. How does Newton's mechanics relate to Kepler's laws?[1] What is the relation
 between the Four Rules and Newton's actual practice?[2] Can a successful
@@ -50,6 +52,13 @@ scientific procedure be founded on these rules?[3]
     [3] I would say yes. But if I remember correctly the answer is no?
 
     Read: Whewell, Kohen pg 100.
+
+    On some level yes, however there are sevral problems. For instance Whewell
+    thinks that rule 1 is to strict of a requirement to allow induction. For
+    example if there is some phenomena where a *simple* and *true cause* cannot be
+    found but only more complicated ones. It must be discarded by 
+    
+    There is a better statement of rule 1? In W or K's chapters.
    
 3. What, for Newton, is a 'hypothesis'?[1] Is he right to say that he does not
 'frame' them?[2] What force does his injunction not to do so really have?[3]
@@ -100,6 +109,9 @@ scientific procedure be founded on these rules?[3]
     
     "Satis est" it was enough. I saw the word 'injunction' somewhere here in
     chapter 8. 
+
+    Newton's injunction to frame no hypothesis perhaps kept him from forming
+    speculative hypotheses. 
 
 
 4. What does Whewell think is missing from a 'purely inductive' account of the
