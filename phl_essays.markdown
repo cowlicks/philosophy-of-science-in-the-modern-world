@@ -36,4 +36,33 @@ that Newton was not actually practicing this rule explicitly, or he would have
 written it down previously. Although he was probably aware of what made a
 hypotheses good and bad, and justly avoided the bad one. 
 
-      
+# 3.
+    Newton explicity defines hypothesis "Hypothesis is here used by me to 
+signify only such a Proposition as is not a Phaenomenon nor deduced from any 
+Phaenomena but assumed or or supposed without any experimental proof." (pg 107)
+Here he is defining Hypothesis in the context of the phrase "Hypothesis non
+fingo" and it is largely in line with how we define hypothesis today. However
+when Newton uses the word hypothesis, he means it in a pejorative way,
+because he beleived that extraneous hypotheses were harmful, and could lead
+scientists astray of the truth.
+
+    This is what Newton means by saying he does not *frame* hypotheses. He means
+that he does not create and use superflusous hypotheses when they are not needed.
+He means he does not create hypotheses without prior evidence, in the same way
+someone in court could be framed when there is a lack of evidence. Or to explain
+things for which there is no evidence for. Newton is using *frame* in a pjorative
+way. Implying that extraneous hypotheses could be harmful, and might lead people
+astray of the truth.
+
+    newton is not saying he does not use hypotheses, because he clearly does in
+several places through out principia, but he would not have considered these
+framed. the place where newton's reluctance to *frame* hypotheses is in the cause
+of gravity. this is where he makes the statement "hypotheses non fingo", because
+he has no idea or evidence as to the cause of gravity, so he will not frame a
+hypotheses for the cause of gravity. so here, newton's injunction has the force
+of avoiding speculation on his part. 
+
+
+#4. 
+    In Whewell's account of the 'purely inductive' formulation of scientific laws
+he implies that the 
