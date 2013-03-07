@@ -15,4 +15,25 @@ Descartes definition of it is not conserved.
 a sling. Despite this he offers a proof based on the immutibility of god.
 Showing that he would rather rely on god than an experiment.
 
-It was known to Descartes that his laws 
+# 2.
+    Keplers' laws have clear definite expressions in terms of Newtonian dynamics.
+However Newton also gave a Kepler's laws a quantitative causal basis. Previously
+Kepler gave qualitative assertions that the motion was related to magnetism.
+
+    The relatio between the Four rules and is actual practice is ambiguous 
+because Newton created and changed them throughout editions of Principia. They
+did not exist in the first edition, and were instead part of his hypothesis. When
+they were introduced in the second edition without the fourth rule. Since the
+rules were not introduced alongside Newtons physics, it is easy to assume that he
+made up the rules after the fact. Perhaps along the line of his actual practice.
+This seems especially relevant to rule 3 which seems to be introduced exclusively
+so that he can say that gravity effects everything in the universe.
+                                                                                      
+    Rule four was introduced in the fourth edition to validate induction against
+any unverified hypotheses (pg 101). This seems to be a response to people
+critiques of Principia where they used unverified hypotheses. This would imply
+that Newton was not actually practicing this rule explicitly, or he would have
+written it down previously. Although he was probably aware of what made a
+hypotheses good and bad, and justly avoided the bad one. 
+
+      

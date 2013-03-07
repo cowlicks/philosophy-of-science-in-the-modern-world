@@ -5,6 +5,13 @@ informed by empirical considerations?[2]
     this but never got around to. He seems to use God to explain his idea of
     conservation of 'quantity of motion'. What else?
 
+    A lot of D's physics are founded on the idea of a god because a beleif in
+    god is one of his axioms from which he works to deduce his physics. 
+
+    This is all page 13.
+
+    pg 49: only knowledge based on inuition and deduction can be known certainly.
+
     [2] He claims his physics are informed by empirical considerations. e.g.
     claims about heavier things falling faster than lighter things. But he never
     actually tested these things.
@@ -18,6 +25,10 @@ informed by empirical considerations?[2]
     D some of his physics were unrealistic. Why did he say this was?
     
     D knew his physics were unrealistic and only happen in an idealized world. 
+    
+    In the first law, it is unclear what the empirical considerations even
+    *are* since this law is stated differently in "the world" and
+    "principles".
 
     Read Chapter 4 pg 48 in Achinstein. 
 
