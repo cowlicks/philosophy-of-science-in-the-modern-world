@@ -1,0 +1,116 @@
+# Duhem's antirealism
+
+We should in theory go through this article in order today. Duhem wrote
+a good history a science. 
+
+It's fine to use Copernicus as long as you don't actually believe that
+the universe works that way. Said the church.
+
+Ernst Mach said that theories are only useful because the make thought
+more economical. And that any predictions, actually come out of
+observations not the theory.
+
+Minimun antirealist would say true and false only pertain to real
+measurable things. True and False cannot be applied to theory?
+
+For example the concept of an atom, in 19th century *atom* started
+taking on it's current meaning. (name?) noticed that some chemical
+reactions always involved whole number ratios... (Moving on to some other
+thing... Back to this.) Atoms! these ratios implied, made it natural to
+think about, that the chemicals were made up of whole numbers of small
+bits of things. This may turn out to be true, very true. If we continue
+to develop on this theory successfully. Like if it makes predictions, or
+explains other areas of science. Does this success actually imply that
+atoms exist? Or is it just a useful predictive tool.  The anti-realist
+would say you do not need to think that atoms are actually real and that
+you should not. 
+
+For the ch 298 don't bother with the maths. Hankinson will not dwell on
+this stuff. 
+
+## Duhem asks "what is physics for?"
+
+For explanation? 
+Explanation has many definitions in science. One is that theories only
+are there to help us derive physical phenomena. 
+
+The only thing Duhem will not do, is say that Newton's laws explain the
+phenomena. But this is due to a matter of taste as to what the word
+*explain* means.
+
+An anti-realist would say that it makes sense to represent Newtonian
+theory inside a more general set of theories. But he would not say that
+because Newtonian theory is explicative of nature, it has gotten us
+closer to the truth.
+
+Anti-realist would say that all these improving theories about
+everything are just more and more economical ways of representing
+things. And that this is all that is necessary to say. 
+
+pg 259 Acoustic theory about strings and such. There is a difference
+about acoustic theory because it is actually physically senseable (you
+can sense it). The fact that it is directly observable.
+
+Should Galileo's observations of the sky account for the observability
+condition of anti-realists(AR)? Not easy. Some AR would account for the
+observation condition with telescopic observation, others would account
+for it with microscopic observation. Some AR would discredit both of
+these methods as unreliable observations. 
+
+Adequacy conditions. 
+
+The vibratory theory of light is... Wrong sort of. 
+
+Michelson Morely experiment. No detection of the ether.
+
+Something interesting!!! Lorentz believed the ether theory and to explain
+why MM experiment did not detect the theory, he proposed that a length
+contraction occurs to objects that are moving through the ether. Lorentz
+proposed:
+
+* The body contracts in the line of motion and preserves its dimension
+perpendicularly to it.
+* The dimension of the body remains the same in the line of motion, but it
+expands perpendicularly to it.
+* The body contracts in the line of motion, and expands at the same time
+perpendicularly to it.
+
+It is frequently thought that MM's null result motivated Einstein. At
+one time he declined this another time he confirmed. But relativity does
+away with the necessity of an ether. 
+
+## Relativistic orbit of Mercury. 
+Mercury was behaving strangely, if Newton was correct, and we had a good
+account of all the major bodies in the system, then it should not have
+been moving that way. 
+
+One proposal was the hypothetical existence of Vulcan. Which was very
+near Sol, and dragged Mercury around. This was sensible because someone
+had recently predicted that Neptune existed because it was effecting the
+orbit of Uranus. 
+
+Eventually not finding Vulcan became a problem, but this was fixed
+eventually by relativity. 
+
+So the moral of the story is that there is not a general way to explain
+away anomalies. The Uranus explanation did not apply to Mercury. So
+despite the Success of N's laws, they failed here.  
+
+GR predicts a bending effect of light around massive objects. 
+
+N's laws did not *not* predict the bending of light, N believed in a
+particulate light, probably with mass, so he might have expected it to
+bend. 
+
+"Why was I... Talking... About any of that..."
+-Hankinson
+
+History of science, not much philosophy.
+
+Duhem thinks we have a physcological compulsion to actually believe that
+accurate successful theories are real. But we can't help it. And it is
+not helpful as physicist to think these things. 
+## What is metaphysics.
+
+Everything other than something.  
+
