@@ -1,0 +1,59 @@
+# Perrin's realism: Salmon
+## pages 312-326
+
+I did the wrong reading for today...
+
+This section is strongly based on (who's?) determination of Avagadro's
+number. But we will not go into the math (lame).
+
+We need to work with a finite set of possibilities. We need to restrict
+the range of hypotheses when testing things. 
+
+Stuff about QED. Light is both a wave and a particle so philosophers
+were both right and wrong debating about it. 
+
+Descartes thought you could model light as particulate. What is
+important about this is that he was using a model for it. A model which
+was impossible for him to verify. He reconstructed the phenomena in
+terms he could understand. But was he actually saying that light is made
+out of particulate pieces. 
+
+Lord Kelvin thought that you had to have a relatable model to understand an
+associated theory. However for somethings this is not really possible
+such as quantum mechanics. 
+
+There are some ideas in science which simply are not relatable to things
+we are familiar with. Such as the statistical phenomena of quantum
+mechanics. There is no mechanical analog to the randomness which comes
+from QM. 
+
+Why be a realist?
+
+Is there any way to argue that you should be a realist?
+Duhem's conclusion: antirealism, because there is no thorough way to know
+that things actually are the way you claim they are. 
+
+
+## To recap:
+Duhem thinks there is a psychological compulsion to be a realist. Because
+it is just the sort of things humans tend to do. 
+
+Your choice of metaphysics is just that, a choice. 
+
+instrumentalisim is another form of antirealism. 
+
+## Something else...
+One way to think about this is to think "are two theories generally
+distinct" 
+
+T1 is different if under certain conditions it gives you separate
+predictions from T2. 
+
+Heisenberg's matrix mechanics, vs Schrodingers wave mechanics. GR vs
+Newtonian mechanics. 
+
+
+
+
+
+
