@@ -40,7 +40,7 @@ it is just the sort of things humans tend to do.
 
 Your choice of metaphysics is just that, a choice. 
 
-instrumentalisim is another form of antirealism. 
+instrumentalisim, positivisim is another form of antirealism. 
 
 ## Something else...
 One way to think about this is to think "are two theories generally
@@ -52,8 +52,44 @@ predictions from T2.
 Heisenberg's matrix mechanics, vs Schrodingers wave mechanics. GR vs
 Newtonian mechanics. 
 
+### Cool:
+Ernst Mach did away with absolute-privileged reference frames in Newtonian
+mechanics.
 
+## Discernable theories
+If two theories are not discernable, then there is no way to tell which
+of them are actually real. Since there is no way to tell them apart. If
+you are choosing one theory then you are not doing physics. 
 
+## What is really at issue:
+Anti-realisim commits you to less. So it seems to be the more reasonable
+position. 
 
+## Van Frassen's Antirealisim:
+### pg 281
+He states on pg 288 that he is doing this against the background of
+Maxwell. Dichotomy of theory vs observation.
+
+More pg 288 Maxwell wants to deny that a distinction of this sort (what
+sort?) pg 289 example of theories existing in language about the sun
+'rising' and 'setting'
+
+Two things here, the distinction Frassen makes between *observing* and
+*observing that* example: X observes Y, X observes that Y. The former
+X under stands the context in which it is seeing Y. The latter X does
+not under stand the context that Y is in. The point is that we may be
+interpreting everything we see with theories we hold true.
+
+Van Frassen argues that surely somethings that some people see in the
+same way and in the same context.
+
+What is observable, Maxwell thinks that there is no clear distinction on
+what we can see. e.g. what if we had electron micrscope eyes.
+
+Frassen tries to set a clear distinction between what is observable and
+what is not 
+
+>"X is observable if there are circumstances which are such that, if X
+>is present to us under those circumstances, then we observe it."
 
 
