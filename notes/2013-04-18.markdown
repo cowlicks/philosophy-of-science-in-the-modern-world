@@ -1,0 +1,26 @@
+# Galileo and Copernican ideas
+
+The issue now is whether or not the earth is stationary.
+
+Considering frames of refrence. If someone is writing on a ship
+traveling from to greece to athens, how much has the pen moved? How much
+has it moved relative to the book? So you need to specify the frame of
+refrence in which things are moving. 
+
+## Ideas of natrual motions. 
+
+Fire and air want to go up.
+
+Other thins want to go down. 
+
+Galileo uses these natural motion arguments when he is being tried in
+court. Aristotellians vs Galileo.
+
+Hankison is basically reading out of the book to us, the 4 people in
+class, and I am working on scipy stuff.
+
+Cue Hankinson's cell phone ringing. He is describing people talking
+about balls rolling down hills.
+
+Galileo tricks this dang guy into thinking physics is real with his
+dirty tricks.
