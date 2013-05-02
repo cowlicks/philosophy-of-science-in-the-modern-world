@@ -1,0 +1,91 @@
+Lucid presentation of a position, then a critique of said position, then give reasons to
+accept this critique.
+
+
+1. Sketch the nature of Duhem's antirealism; what does he take to be
+unacceptably 'metaphysical' and why? Why doees he think the aim of science is
+not to explain? What does he mean by 'natural classification', and how does it
+fit into his account of the progress of science?
+
+What Duhem regards as adressable by is science he calls 'sensible
+appearences', these are observable physical phenomena. This is dinguished from
+'material reality' which underlies the appearences. This material reality is
+unobservable, by Duhem's definition, so it cannot be probed empirically.
+Since science is must be emperical it cannot determine the nature of this
+unobservable reality. This material reality is considered to metaphysical
+because its features transced science. 
+
+To Duhem, science is not for explanations or causes of phenomena, it is for
+the representing of phenomena 'with as much economy as possible'[1]
+
+Theories which postulate entities that cannot be seen with our own eyes, or
+felt with our own fingers are proposing a reality that is not accessible to
+the senses. Then the theory is content with proving that all perceptions ar
+eproduced *as if* the reality were what it asserts.o
+
+Duhem asserts that science cannot explain what is beyond sensible appearences
+because it must first answer 2 questions: Does a material reality exist beyond
+sensible appearences? And what is the nature of the material reality? Duhem
+claims these questions 'do not have their source in expiremental method'[2]
+therefore they cannot be addressed by science.
+
+Duhem justifies the usefulness of theories as natural classifications (since
+they are not explenations.) This is the grouping, and categorizing of phyical
+theories. The more complete a theory is, the better categorized it can
+be. This classification give theories an economy of thought, and makes them
+easier to understand. As Science progresses, theories become more developed
+and classifications become more complete. A clear thorough classification can
+lead scientists to believe any postulated entities which are used in natural
+classification are true explantions. However, this is not provable. Therefore
+outside of science.[3]
+
+Duhem thinks we cannot escape natural classification. 
+
+Summarizing and classification is not a form of *explanation*. According to
+Duhem. 
+
+Why is it better to be a realist or antirealist? 
+
+The more a integrated and classified a theory is, the less we can avoid
+thinking that said theory is the *truth*. Which should not have anything to do
+with science. 
+
+Duhem think maybe we think the theory is getting more true, because it
+actually is, but he cannot say that because it conflicts with his views on
+science.
+
+[1] pg 254 
+[2] pg 261
+[3] middle of pg 275
+
+
+2. What is van Fraassen's 'constructive empiricism', and how does it differ
+from other types of anti-realism? Does it give a successful reconstruction of
+the aim of science? How does he draw the boundary between observable and
+unobservable, and is he right in so doing?
+
+    VF's Constructive empericism is formulated as "Science aims
+to give us theories which are empirically adequate; and acceptance of a theory
+involves as belief only that it is empirically adequate" This formulation of
+antirealism differs from others in that it does not adress unobservables, it
+chooses the Null hypothesis for unobservables. Accepting a theory does not
+imply the acceptance of postulated unobservables, only that the theory
+explains everything that is empirically verifiable.
+
+    His line between unob and observ is peculiar. and different from other AR.
+But what is more important in AR. His aim of science is increasing empirical
+adequacy, making theories that are confirmed better with experiment. compared
+with other AR which is to provide true or approximately trueaccount of the
+world, is this a R approach?
+
+    He thinks scientists should ask not, is science getting more true. but is
+it getting more empirically adequate. 
+
+For bdd betweenn ob an unob see pg 290
+    
+
+4. How does Feyerabend reconstruct Galileo's procedure in refuting the
+arguments for a moving earth? Is his reconstruction plausible, or does it
+misrepresent Galileo's aims, methods and success?
+
+Feyerabend (F) reconstructs Galileo's procedure as proliferation. 
