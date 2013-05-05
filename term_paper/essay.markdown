@@ -34,22 +34,35 @@ What's generally accepted?
 What are 'postulated entities'?  
 What does it mean to prove thier existance?   
 
-## Points
-Obviously, awarding a 'point' based on the success of theory, is not ideal.
-Since each theory's postulated entities have a certain level of plausibility,
-and it may seem unfair to give a point to Anti-realisim for [miasma][1], since
-it now seems so implausible. However, the realisim antirealism discussion is in
-general terms, and whether something exists in 'reality' or is a postulated
-entity, is determined by it's observability. Not neccesarily the plausibility
-of the postulated entity's existence. Plausibility and observability are
-related, but distinct. Observability refers to ability to observe something
-using natural senses, plausibility refers to likelyhood of existence in the
-context of surrounding scientific theories. So I think awarding points per
-theory is acceptable, because the realisim antirealism debate aknowledges the
-observability of an object rather than its plausability. 
+## Points 
+Obviously, awarding a 'point' based on the success of theory,
+is not ideal.  Since each theory's postulated entities have a certain
+level of plausibility, and it may seem unfair to give a point to
+Anti-realisim for [miasma][1], since it now seems so implausible.
+However, the realisim antirealism discussion is in general terms, and
+whether something exists in 'reality' or is a postulated entity, is
+determined by it's observability. Not neccesarily the plausibility of
+the postulated entity's existence. Plausibility and observability are
+related, but distinct. Observability refers to ability to observe
+something using natural senses, plausibility refers to likelyhood of
+existence in the context of surrounding scientific theories. So I think
+awarding points per theory is acceptable, because the realisim
+antirealism debate aknowledges the observability of an object rather
+than its plausability. 
 
 [1]: https://en.wikipedia.org/wiki/Miasma_theory_of_disease "Miasma theory"
 
+## Postulated entities
+A postulated entity is part of a theory that is not directly verifiable,
+but this entity is what causes the phenomena the theory is supposed to
+explain. 
 
-## Implications
-What would this experiment actually imply?
+## Implications 
+
+If we were to gather a list of past theories our data
+would probably be biased toward successful ones. Because when a theory
+is superseeded it is more likely to be forgotten, and no longer taught.
+With this in mind, it would seem that almost all postulated entities
+throughout history have been modified as experimental techniques
+improved, or replaced by a competing theory.  What would this experiment
+actually imply? 
