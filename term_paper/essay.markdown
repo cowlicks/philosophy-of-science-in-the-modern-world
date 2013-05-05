@@ -1,17 +1,3 @@
-4. What is at issue between scientific realism(s) and anti-realism(s)?[1] In
-   what sense is Duhem's account anti-realist? How does van Frassen's
-antirealism differ from Duhem's?[2] What, very generally is the connection
-between anti-realisim and empiricisim?[3] Can there be an empirical defence of
-realism, and if so how much can it show?[4] Do Perrin's experiments (and
-subsequent developments) really give us grounds for supposing that the
-theoretically-introduced terms of theory actually refer to real objects?[5]
-
-[3] Can there be an empirical defence of realism, and if so how much can it
-show?
-
-An empirical *test* of realisim.
-
-
 # Prompt: Can there be an empirical *test* of realisim or antirealism?
 
 Yes, given certain definitions of realisim and antirealisim. An experiment
@@ -34,7 +20,9 @@ What's generally accepted?
 What are 'postulated entities'?  
 What does it mean to prove thier existance?   
 
+
 ## Points 
+
 Obviously, awarding a 'point' based on the success of theory,
 is not ideal.  Since each theory's postulated entities have a certain
 level of plausibility, and it may seem unfair to give a point to
@@ -52,17 +40,41 @@ than its plausability.
 
 [1]: https://en.wikipedia.org/wiki/Miasma_theory_of_disease "Miasma theory"
 
+
 ## Postulated entities
+
 A postulated entity is part of a theory that is not directly verifiable,
 but this entity is what causes the phenomena the theory is supposed to
-explain. 
+explain. For example the [luminiferous aether][1], [gravitational
+field][2], or [caloric][3]. These unobservable by definition, because if
+they were observable, then they would be verifiable and not postulated.
+A postulated entity can become obsolete if its theory is falsified, or
+if another entity is postulated which better explains the phenomena and
+the new gains scientific consensus in the community. 
+
+[1]: https://en.wikipedia.org/wiki/Luminiferous_aether  "Luminiferous eather"
+[2]: https://en.wikipedia.org/wiki/Gravitational_field#Classical_mechanics "Gravitational field"
+[3]: https://en.wikipedia.org/wiki/Caloric_theory       "Caloric theory"
+
 
 ## Implications 
 
-If we were to gather a list of past theories our data
-would probably be biased toward successful ones. Because when a theory
-is superseeded it is more likely to be forgotten, and no longer taught.
-With this in mind, it would seem that almost all postulated entities
-throughout history have been modified as experimental techniques
-improved, or replaced by a competing theory.  What would this experiment
+If we were to gather a list of past theories our data would probably be
+biased toward successful ones. Because when a theory is superseeded it
+is more likely to be forgotten, and no longer taught.  With this in
+mind, it would seem that almost all postulated entities throughout
+history have been modified as experimental techniques improved, or
+replaced by a competing theory. It does not seem so suprising to think
+that almost all historical theories have had disproven postulated
+entities. This would skew our score largely in favor of antirealisim.
+But many historical theories are the predecessors to modern ones, and
+served as useful stepping stones to a more modern successful theory. It
+seems unfair to discredit such a theory which would have been
+insturmental in creating a more true theory. However in such a case the
+realists insistance on the reality of a postulated entity. Would be
+incorrect, strictly speaking. 
+
+Given these considerations it seem that our experiment would be in favor
+of the antirealist for decent data set. 
+
 actually imply? 
