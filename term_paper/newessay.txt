@@ -1,0 +1,103 @@
+﻿Blake Griffith (wordcount = 938) ## prompt: 
+
+How does Feyerabend construe Galileo's 'Tower Argument', and is he right
+to do in this way? What follows from such a reconstruction?  How can it
+be resisted?
+
+## essay:
+
+Feyerabend, construes Galileo's Tower Argument in terms of his
+principles of proliferation. Feyerabend intends for this reconstruction
+to be an example of his anarchist theory of the of progress of science.
+However, his reconstruction is exaggerated, and dishonest to Galileo's
+intent. Feyerabend exaggerates to the point of dishonesty to make
+Galileo seem dishonest. However Galileo did not adhere strictly to
+methodological rules, and his methods can be considered justification
+for Feyerabend's anarchism, even without Feyerabend's misconstrual of
+Galileo's intentions.
+
+Feyerabend defines his proliferation as "introducing, elaborating, and
+propagating hypotheses which are inconsistent either with
+well-established *theories* or with well-established facts" this is how
+Feyerabend believes science is progressed, rather than through
+methodological rules. Like Newton, or Descartes would insist. Feyerabend
+applies this principle to the Tower Argument which is a dialog between
+three fictional characters in which they debate the Copernican versus
+Ptolemaic theories of the solar system. The three characters are
+Simplicio: an Aristotelian and defender of the Ptolemaic theory,
+Salviati: defender of the Copernican theory (Galileo in guise), and
+Sagredo: the neutral observer. Feyerabend even suggests that Simplicio's
+name is a 'trick', because it implies the supporter of Ptolemaic theory
+is a simpleton. While Galileo may or may not have intended to be tricky
+here is not important because he is already diverted from any standard
+rules of science by trying to make a convincing argument via a
+hypothetical dialog. 
+
+Feyerabend begins by introducing the tower argument as Galileo's
+'diffusal' of an argument instead of a 'refutation'. Because he is
+emphasizing that Galileo did not logically refute the Ptolemaists but
+used more subversive methods, like concealment, to win. It also seems to
+emphasize that Copernican theory does not have logical, testable, and
+indisputable advantages to the Ptolemaic theory, which it does.
+Feyerabend intentionally glazes over this fact. So I would say Galileo
+does successfully refute the Ptolemaic model in some sense.  
+
+The Tower Argument goes on with Simplicio suggesting that a stationary
+earth implies that a stone dropped should be hurtled westward.
+Simplicio and Salvatori(Galileo) both agree that this is not what
+happens. When a stone is dropped from a tower it falls straight down.
+Perpendicular to the earth.  Galileo goes on to show, in terms
+understandable by Simplicio, that the Copernican model is also
+consistent with this observation. Galileo first explains how the
+relative motions of objects can be misunderstood with a metaphor about
+how people might think the moon follows them. Feyerabend calls this
+impression of the motion of the moon a 'natural interpretation' of its
+motion. A natural interpretation is an implicit assumption people make
+that is based on previous scientific theory. A natural interpretation is
+why an Aristotelian would think the stone would be 'left behind' when
+dropped from the tower. Feyerabend asserts that it is difficult to
+detect error in natural interpretations without alternative statements,
+so Galileo used the Copernican theory to offer an alternative statement.
+Galileo, also broke methodological rules when he created an ad hoc
+hypotheses to save his theory, since he had no knowledge of Newtonian
+mechanics, he made up an explanation to save his theory: Since the earth
+is moving, so is the tower, so when the rock is dropped, its motion is
+the sum of the two parts, the moving earth and falling.  These two
+motions add together so that the rock falls parallel to the tower.  It
+is in this way that Feyerabend thinks Galileo is using counterinduction
+to elaborate on his theory so that it conforms with the observed facts.
+To this Feyerabend remarks that here Galileo does not actually argue,
+but uses *propaganda* and *psychological tricks* to persuade Simplicio
+and Sagredo.  Feyerabend intends for his reconstruction to demonstrate
+the successfulness of his principals of proliferation. By showing how
+Galileo used methods other than straight forward arguments to promote
+his theory. 
+
+In the tower argument, Feyerabend construes Galileo's arguments as
+'propaganda' and 'psychological tricks' These words have negative
+connotations. Implying that Galileo would deceive someone into the
+belief of a moving earth. There is no reason to believe Galileo was
+being deceitful, there was no benefit to his deception. Nor is there a
+reason to believe that Galileo did not actually believe in a moving
+earth and was lying.  While it can't be ruled out that Galileo was being
+dishonest, there is no reason to think he was.
+
+Feyerabend admits, this construal is exaggerated. It portrays Galileo's
+intentions dishonestly. By using words like 'propaganda' and
+'psychological tricks' he is insinuating that Galileo is trying to
+deceive his opponent. The tone implies that Galileo thinks his own
+theory is untrue but is promoting it in spite of this fact.  
+
+According to Feyerabend the proliferating scientist should be
+"introducing, elaborating, and propagating hypotheses which are
+inconsistent [...] with well-established theories." Galileo is indeed
+doing this. The idea that the earth moves around the sun was
+inconsistent with the churches theory. But Galileo is not proliferating
+because the church theory is well established as Feyerabend would have
+you think. He is espousing his theory because he thinks that his theory
+is correct. How is this different? In the former case Galileo would be
+challenging the church just because of the popularity of its theory, in
+the latter case Galileo is challenging the church because he simply
+believes his theory to be true. Finally we can avoid total anarchism if
+we notice, in Galileo's case and others, that scientific rules are
+useful.
